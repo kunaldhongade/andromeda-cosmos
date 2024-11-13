@@ -1,0 +1,15 @@
+{
+  "coinDenom": "AEXCG",
+  "name": "Andro Exchange",
+  "banner": "https://crowf.infura-ipfs.io/ipfs/QmXpSQ5pTTSES8k5zP6AL6uPZo8myhTvV8U8DgZMj8a8TF",
+  "collections": [
+    {
+      "exchange": "andr1ypdz3r9fa24t6dz7xqunwm3v6qtyg064mvexzey3vwzhdh4g922sd9pktk",
+      "cw20": "andr1fkaqr3a0gu8htyka0s32l3u5w4k2t2she60tnujy43euq0nh6cqsacvm9c",
+      "name": "Andro Exchange",
+      "id": "embeddables-exchange-1",
+      "type": "embeddables-exchange"
+    }
+  ],
+  "$type": "nft"
+}
